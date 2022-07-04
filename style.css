@@ -1,0 +1,41 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.talha{
+    color: darkorange;
+}
+
+section{
+    display: flex;
+}
+
+.you{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+
+.home img{
+    width: 50%;
+    margin-left: 150px;
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 230, 230) , rgb(5, 5, 5));
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: rgb(20, 20, 22);
+    font-weight: 700;
+}
+
+.jay{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
