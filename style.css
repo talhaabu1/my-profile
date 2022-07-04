@@ -39,3 +39,16 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.non img{
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 7%;
+
+}
+.jayt{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
